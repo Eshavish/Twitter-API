@@ -1,0 +1,9 @@
+The ng-app directive defines an AngularJS application.
+
+The ng-model directive binds the value of HTML controls (input, select, textarea) to application data.
+
+The ng-bind directive binds application data to the HTML view.
+You can use data-ng-, instead of ng-, if you want to make your page HTML valid.
+p>My first expression: {{ 5 + 5 }}</p>
+My first expression: 10
+AngularJS expressions bind AngularJS data to HTML the same way as the ng-bind directive.
